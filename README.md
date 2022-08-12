@@ -1,4 +1,4 @@
-### Olá, sou Christian Bezerra, desenvolvedor web full stack 👋
+### Olá, sou Christian Bezerra, desenvolvedor Full Stack 👋
 
 - 📫 entre em contato comigo por christianbm1998@gmail.com
 
