@@ -2,7 +2,7 @@
 
 - 📫 entre em contato comigo por christianbm1998@gmail.com
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/christian-bm">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=christian-bm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-bm&layout=compact&langs_count=7&theme=dracula"/>
